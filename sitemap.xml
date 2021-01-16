@@ -1,125 +1,152 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/project/templogic/</loc>
+      <lastmod>2019-01-05T23:38:50+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/project/abhyast/</loc>
+      <lastmod>2019-01-05T23:38:32+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/project/auv/</loc>
+      <lastmod>2019-01-05T23:38:20+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/project/cs771/</loc>
+      <lastmod>2019-01-05T23:38:12+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/project/ssp/</loc>
+      <lastmod>2019-01-05T23:38:04+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/project/mth517/</loc>
+      <lastmod>2019-01-05T23:37:56+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/project/cs671/</loc>
+      <lastmod>2019-01-05T23:37:40+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/project/mfr/</loc>
+      <lastmod>2019-01-05T23:32:46+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/publication/fuzzieee2018/</loc>
+      <lastmod>2019-01-05T22:00:38+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/publication_types/1/</loc>
+      <lastmod>2019-01-05T22:00:38+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/project/</loc>
+      <lastmod>2019-01-05T23:38:50+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/publication_types/</loc>
+      <lastmod>2019-01-05T22:00:38+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://harshv834.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>
