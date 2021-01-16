@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Academic</title>
@@ -7,18 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 05 Jan 2019 23:38:50 +0530</lastBuildDate>
-    
-	<atom:link href="https://harshv834.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 05 Jan 2019 23:38:50 +0530</lastBuildDate><atom:link href="https://harshv834.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Temporal Logic Motion Planning</title>
       <link>https://harshv834.github.io/project/templogic/</link>
       <pubDate>Sat, 05 Jan 2019 23:38:50 +0530</pubDate>
       
       <guid>https://harshv834.github.io/project/templogic/</guid>
-      <description></description>
+      <description>Used LTLMoP, for synthesizing  and simulating correct-by-construction reactive controllers using Linear Temporal Logic. Proposed a novel algorithm to extend this LTL controller synthesis to unmapped or incorrectly mapped environments by dynamically updating the strategy automaton.</description>
     </item>
     
     <item>
@@ -81,7 +77,7 @@
       <pubDate>Sat, 05 Jan 2019 23:32:46 +0530</pubDate>
       
       <guid>https://harshv834.github.io/project/mfr/</guid>
-      <description></description>
+      <description>The MyFoodRepo project aims to produce accurate nutritional value estimates from images of food items. My work involved training the baseline Tortilla image classifier on a private dataset of food images, handling class imbalance in the data, setting up a coco-ui like segmentation interface on MTurk, and a webcrawler for obtaining further training data. Proposed methods to handle hierarchical classification performance. The code for this project is still private and will be open-sourced after its completion.</description>
     </item>
     
   </channel>
