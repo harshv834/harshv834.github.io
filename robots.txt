@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: harshv834.github.io/sitemap.xml
