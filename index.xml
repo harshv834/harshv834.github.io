@@ -1,227 +1,401 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://harshv834.github.io/</link>
-    <description>Recent content on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 05 Jan 2019 23:38:50 +0530</lastBuildDate><atom:link href="https://harshv834.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://harshv834.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/hero_carousel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
+    <link>http://docker.local:1313/</link>
+      <atom:link href="http://docker.local:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://docker.local:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
-      <link>https://harshv834.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀</description>
+      <link>http://docker.local:1313/</link>
+    </image>
+    
+    <item>
+      <title>Constrained Stochastic Compositional Gradient Descent</title>
+      <link>http://docker.local:1313/project/cscgd/</link>
+      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
+      <guid>http://docker.local:1313/project/cscgd/</guid>
+      <description>&lt;p&gt;This work studies constrained stochastic optimization problems where the objective and constraint functions are convex and expressed as compositions of stochastic functions. The problem arises in the context of fair classification, fair regression, and the design of queuing systems. Of particular interest is the large-scale setting where an oracle provides the stochastic gradients of the constituent functions, and the goal is to solve the problem with a minimal number of calls to the oracle. The problem arises in fair classification/regression and in the design of queuing systems. Owing to the compositional form, the stochastic gradients provided by the oracle do not yield unbiased estimates of the objective or constraint gradients. Instead, we construct approximate gradients by tracking the inner function evaluations, resulting in a quasi-gradient saddle point algorithm. We prove that the proposed algorithm is guaranteed to find the optimal and feasible solution almost surely. We further establish that the proposed algorithm requires O(ϵ^(-4)) data samples in order to obtain an ϵ-approximate optimal point while also ensuring zero constraint violation. The result matches the sample complexity of the stochastic compositional gradient descent method for unconstrained problems and improves upon the best-known sample complexity results for the constrained settings. The efficacy of the proposed algorithm is tested on both fair classification and fair regression problems. The numerical results show that the proposed algorithm outperforms the state-of-the-art algorithms in terms of the convergence rate.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://harshv834.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/about/</guid>
-      <description>Biography Harshvardhan is a Master&amp;rsquo;s in Data Science Student at EPFL, working on optimization methods in machine learning.</description>
+      <title>Robust Training for Neural Networks</title>
+      <link>http://docker.local:1313/project/cs777/</link>
+      <pubDate>Sat, 05 Jan 2019 23:37:28 +0530</pubDate>
+      <guid>http://docker.local:1313/project/cs777/</guid>
+      <description>&lt;p&gt;Designed a novel alternating-optimization based training algorithm for a single hidden layer NN with ReLU activation by breaking the training procedure into 3 stages -sparse recovery for choosing the sign of weights and separate regression procedures for the positive and negative weights. Proved the rates of convergence for this algorithm under mild assumptions on the weights &amp;amp; input.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>https://harshv834.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>https://harshv834.github.io/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>https://harshv834.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accomplish&amp;shy;ments</title>
-      <link>https://harshv834.github.io/home/accomplishments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/accomplishments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>https://harshv834.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Talks</title>
-      <link>https://harshv834.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://harshv834.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://harshv834.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://harshv834.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>https://harshv834.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://harshv834.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://harshv834.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://harshv834.github.io/home/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Temporal Logic Motion Planning</title>
-      <link>https://harshv834.github.io/project/templogic/</link>
-      <pubDate>Sat, 05 Jan 2019 23:38:50 +0530</pubDate>
-      
-      <guid>https://harshv834.github.io/project/templogic/</guid>
-      <description>Used LTLMoP, for synthesizing  and simulating correct-by-construction reactive controllers using Linear Temporal Logic. Proposed a novel algorithm to extend this LTL controller synthesis to unmapped or incorrectly mapped environments by dynamically updating the strategy automaton.</description>
-    </item>
-    
-    <item>
-      <title>Abhyast</title>
-      <link>https://harshv834.github.io/project/abhyast/</link>
-      <pubDate>Sat, 05 Jan 2019 23:38:32 +0530</pubDate>
-      
-      <guid>https://harshv834.github.io/project/abhyast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Auv</title>
-      <link>https://harshv834.github.io/project/auv/</link>
-      <pubDate>Sat, 05 Jan 2019 23:38:20 +0530</pubDate>
-      
-      <guid>https://harshv834.github.io/project/auv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recommend a Reviewer</title>
-      <link>https://harshv834.github.io/project/cs771/</link>
-      <pubDate>Sat, 05 Jan 2019 23:38:12 +0530</pubDate>
-      
-      <guid>https://harshv834.github.io/project/cs771/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Direction of Arrival and Source Position Estimation</title>
-      <link>https://harshv834.github.io/project/ssp/</link>
-      <pubDate>Sat, 05 Jan 2019 23:38:04 +0530</pubDate>
-      
-      <guid>https://harshv834.github.io/project/ssp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outlier Detection Using Loggarma Models</title>
-      <link>https://harshv834.github.io/project/mth517/</link>
-      <pubDate>Sat, 05 Jan 2019 23:37:56 +0530</pubDate>
-      
-      <guid>https://harshv834.github.io/project/mth517/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GCNs for Unsupervised Machine Translation</title>
-      <link>https://harshv834.github.io/project/cs671/</link>
-      <pubDate>Sat, 05 Jan 2019 23:37:40 +0530</pubDate>
-      
-      <guid>https://harshv834.github.io/project/cs671/</guid>
+      <title>Stochastic Hamiltonian Descent</title>
+      <link>http://docker.local:1313/project/ee609/</link>
+      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
+      <guid>http://docker.local:1313/project/ee609/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MyFoodRepo</title>
-      <link>https://harshv834.github.io/project/mfr/</link>
-      <pubDate>Sat, 05 Jan 2019 23:32:46 +0530</pubDate>
+      <link>http://docker.local:1313/project/mfr/</link>
+      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
+      <guid>http://docker.local:1313/project/mfr/</guid>
+      <description>&lt;p&gt;The MyFoodRepo project aims to produce accurate nutritional value estimates from images of food items. My work involved training the baseline Tortilla image classifier on a private dataset of food images, handling class imbalance in the data, setting up a coco-ui like segmentation interface on MTurk, and a webcrawler for obtaining further training data. Proposed methods to handle hierarchical classification performance. The code for this project is still private and will be open-sourced after its completion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feature Selection using fuzzy combination of fuzzy subsets</title>
+      <link>http://docker.local:1313/project/fuzzy/</link>
+      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
+      <guid>http://docker.local:1313/project/fuzzy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AUV</title>
+      <link>http://docker.local:1313/project/auv/</link>
+      <pubDate>Sat, 05 Jan 2019 23:37:28 +0530</pubDate>
+      <guid>http://docker.local:1313/project/auv/</guid>
+      <description>&lt;p&gt;+++
+title = &amp;ldquo;Auv&amp;rdquo;
+date = 2019-01-05T23:38:20+05:30
+draft = false&lt;/p&gt;
+&lt;h1 id=&#34;tags-can-be-used-for-filtering-projects&#34;&gt;Tags: can be used for filtering projects.&lt;/h1&gt;
+&lt;h1 id=&#34;example-tags--machine-learning-deep-learning&#34;&gt;Example: &lt;code&gt;tags = [&amp;quot;machine-learning&amp;quot;, &amp;quot;deep-learning&amp;quot;]&lt;/code&gt;&lt;/h1&gt;
+&lt;p&gt;tags = []&lt;/p&gt;
+&lt;h1 id=&#34;project-summary-to-display-on-homepage&#34;&gt;Project summary to display on homepage.&lt;/h1&gt;
+&lt;p&gt;summary = &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-page-with-markdown-slides&#34;&gt;Associate this page with Markdown slides.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-slides--example-slides-references&#34;&gt;E.g. &lt;code&gt;slides = &amp;quot;example-slides&amp;quot;&lt;/code&gt; references&lt;/h1&gt;
+&lt;h1 id=&#34;contentslidesexample-slidesmd&#34;&gt;&lt;code&gt;content/slides/example-slides.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-slides--&#34;&gt;Otherwise, set &lt;code&gt;slides = &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;slides = &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
+&lt;p&gt;external_link = &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
+&lt;p&gt;url_pdf = &amp;quot;&amp;quot;
+url_code = &amp;quot;&amp;quot;
+url_dataset = &amp;quot;&amp;quot;
+url_slides = &amp;quot;&amp;quot;
+url_video = &amp;quot;&amp;quot;
+url_poster = &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;custom-links-optional&#34;&gt;Custom links (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;uncomment-line-below-to-enable-for-multiple-links-use-the-form---&#34;&gt;Uncomment line below to enable. For multiple links, use the form &lt;code&gt;[{...}, {...}, {...}]&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;url_custom--icon_pack--fab-icontwitter-namefollow-url--httpstwittercom&#34;&gt;url_custom = [{icon_pack = &amp;ldquo;fab&amp;rdquo;, icon=&amp;ldquo;twitter&amp;rdquo;, name=&amp;ldquo;Follow&amp;rdquo;, url = &amp;ldquo;https://twitter.com&amp;rdquo;}]&lt;/h1&gt;
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+&lt;h1 id=&#34;to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
+&lt;p&gt;[image]&lt;/p&gt;
+&lt;h1 id=&#34;caption-optional&#34;&gt;Caption (optional)&lt;/h1&gt;
+&lt;p&gt;caption = &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;focal-point-optional&#34;&gt;Focal point (optional)&lt;/h1&gt;
+&lt;h1 id=&#34;options-smart-center-topleft-top-topright-left-right-bottomleft-bottom-bottomright&#34;&gt;Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight&lt;/h1&gt;
+&lt;p&gt;focal_point = &amp;quot;&amp;quot;
++++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://docker.local:1313/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://docker.local:1313/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Compositional Gradient Descent under Compositional Constraints</title>
+      <link>http://docker.local:1313/publication/cscgd/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://docker.local:1313/publication/cscgd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Compositional Gradient Descent under Compositional Constraints</title>
+      <link>http://docker.local:1313/publication/cscgd_paper/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://docker.local:1313/publication/cscgd_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Compositional Gradient Descent under Compositional Constraints</title>
+      <link>http://docker.local:1313/publication/fuzzy_mrmr-copy/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://docker.local:1313/publication/fuzzy_mrmr-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>http://docker.local:1313/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://docker.local:1313/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; data-caption=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+
+
+  &lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>http://docker.local:1313/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://docker.local:1313/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
       
-      <guid>https://harshv834.github.io/project/mfr/</guid>
-      <description>The MyFoodRepo project aims to produce accurate nutritional value estimates from images of food items. My work involved training the baseline Tortilla image classifier on a private dataset of food images, handling class imbalance in the data, setting up a coco-ui like segmentation interface on MTurk, and a webcrawler for obtaining further training data. Proposed methods to handle hierarchical classification performance. The code for this project is still private and will be open-sourced after its completion.</description>
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommend a Reviewer</title>
+      <link>http://docker.local:1313/project/cs771/</link>
+      <pubDate>Sat, 05 Jan 2019 23:38:12 +0530</pubDate>
+      <guid>http://docker.local:1313/project/cs771/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direction of Arrival and Source Position Estimation</title>
+      <link>http://docker.local:1313/project/ssp/</link>
+      <pubDate>Sat, 05 Jan 2019 23:38:04 +0530</pubDate>
+      <guid>http://docker.local:1313/project/ssp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outlier Detection Using Loggarma Models</title>
+      <link>http://docker.local:1313/project/mth517/</link>
+      <pubDate>Sat, 05 Jan 2019 23:37:56 +0530</pubDate>
+      <guid>http://docker.local:1313/project/mth517/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Optimal Feature Selection using Fuzzy Combination of Feature Subset for Transcriptome Data</title>
-      <link>https://harshv834.github.io/publication/fuzzieee2018/</link>
-      <pubDate>Sat, 05 Jan 2019 22:00:38 +0530</pubDate>
-      
-      <guid>https://harshv834.github.io/publication/fuzzieee2018/</guid>
+      <link>http://docker.local:1313/publication/fuzzy_mrmr/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://docker.local:1313/publication/fuzzy_mrmr/</guid>
       <description></description>
     </item>
     

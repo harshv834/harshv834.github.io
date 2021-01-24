@@ -1,19 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Academic</title>
-    <link>https://harshv834.github.io/publication/</link>
-    <description>Recent content in Publications on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://harshv834.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Academic</title>
+    <link>http://docker.local:1313/publication/</link>
+      <atom:link href="http://docker.local:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://docker.local:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>http://docker.local:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Stochastic Compositional Gradient Descent under Compositional Constraints</title>
+      <link>http://docker.local:1313/publication/cscgd/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://docker.local:1313/publication/cscgd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Compositional Gradient Descent under Compositional Constraints</title>
+      <link>http://docker.local:1313/publication/cscgd_paper/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://docker.local:1313/publication/cscgd_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Compositional Gradient Descent under Compositional Constraints</title>
+      <link>http://docker.local:1313/publication/fuzzy_mrmr-copy/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://docker.local:1313/publication/fuzzy_mrmr-copy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Optimal Feature Selection using Fuzzy Combination of Feature Subset for Transcriptome Data</title>
-      <link>https://harshv834.github.io/publication/fuzzieee2018/</link>
-      <pubDate>Sat, 05 Jan 2019 22:00:38 +0530</pubDate>
-      
-      <guid>https://harshv834.github.io/publication/fuzzieee2018/</guid>
+      <link>http://docker.local:1313/publication/fuzzy_mrmr/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://docker.local:1313/publication/fuzzy_mrmr/</guid>
       <description></description>
     </item>
     

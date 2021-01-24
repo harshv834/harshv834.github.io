@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://docker.local:1313/sitemap.xml
