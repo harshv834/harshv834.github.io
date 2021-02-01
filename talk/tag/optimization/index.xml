@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization | Academic</title>
+    <link>http://docker.local:1313/tag/optimization/</link>
+      <atom:link href="http://docker.local:1313/tag/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jan 2019 23:37:28 +0530</lastBuildDate>
+    <image>
+      <url>http://docker.local:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Optimization</title>
+      <link>http://docker.local:1313/tag/optimization/</link>
+    </image>
+    
+    <item>
+      <title>Constrained Stochastic Compositional Gradient Descent</title>
+      <link>http://docker.local:1313/project/cscgd/</link>
+      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
+      <guid>http://docker.local:1313/project/cscgd/</guid>
+      <description>&lt;p&gt;This work studies constrained stochastic optimization problems where the objective and constraint functions are convex and expressed as compositions of stochastic functions. The problem arises in the context of fair classification, fair regression, and the design of queuing systems. Of particular interest is the large-scale setting where an oracle provides the stochastic gradients of the constituent functions, and the goal is to solve the problem with a minimal number of calls to the oracle. The problem arises in fair classification/regression and in the design of queuing systems. Owing to the compositional form, the stochastic gradients provided by the oracle do not yield unbiased estimates of the objective or constraint gradients. Instead, we construct approximate gradients by tracking the inner function evaluations, resulting in a quasi-gradient saddle point algorithm. We prove that the proposed algorithm is guaranteed to find the optimal and feasible solution almost surely. We further establish that the proposed algorithm requires O(ϵ^(-4)) data samples in order to obtain an ϵ-approximate optimal point while also ensuring zero constraint violation. The result matches the sample complexity of the stochastic compositional gradient descent method for unconstrained problems and improves upon the best-known sample complexity results for the constrained settings. The efficacy of the proposed algorithm is tested on both fair classification and fair regression problems. The numerical results show that the proposed algorithm outperforms the state-of-the-art algorithms in terms of the convergence rate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust Training for Neural Networks</title>
+      <link>http://docker.local:1313/project/cs777/</link>
+      <pubDate>Sat, 05 Jan 2019 23:37:28 +0530</pubDate>
+      <guid>http://docker.local:1313/project/cs777/</guid>
+      <description>&lt;p&gt;Designed a novel alternating-optimization based training algorithm for a single hidden layer NN with ReLU activation by breaking the training procedure into 3 stages -sparse recovery for choosing the sign of weights and separate regression procedures for the positive and negative weights. Proved the rates of convergence for this algorithm under mild assumptions on the weights &amp;amp; input.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Hamiltonian Descent</title>
+      <link>http://docker.local:1313/project/ee609/</link>
+      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
+      <guid>http://docker.local:1313/project/ee609/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

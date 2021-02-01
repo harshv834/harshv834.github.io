@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Academic</title>
+    <link>http://docker.local:1313/tag/deep-learning/</link>
+      <atom:link href="http://docker.local:1313/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jan 2019 23:37:28 +0530</lastBuildDate>
+    <image>
+      <url>http://docker.local:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Deep Learning</title>
+      <link>http://docker.local:1313/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Robust Training for Neural Networks</title>
+      <link>http://docker.local:1313/project/cs777/</link>
+      <pubDate>Sat, 05 Jan 2019 23:37:28 +0530</pubDate>
+      <guid>http://docker.local:1313/project/cs777/</guid>
+      <description>&lt;p&gt;Designed a novel alternating-optimization based training algorithm for a single hidden layer NN with ReLU activation by breaking the training procedure into 3 stages -sparse recovery for choosing the sign of weights and separate regression procedures for the positive and negative weights. Proved the rates of convergence for this algorithm under mild assumptions on the weights &amp;amp; input.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MyFoodRepo</title>
+      <link>http://docker.local:1313/project/mfr/</link>
+      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
+      <guid>http://docker.local:1313/project/mfr/</guid>
+      <description>&lt;p&gt;The MyFoodRepo project aims to produce accurate nutritional value estimates from images of food items. My work involved training the baseline Tortilla image classifier on a private dataset of food images, handling class imbalance in the data, setting up a coco-ui like segmentation interface on MTurk, and a webcrawler for obtaining further training data. Proposed methods to handle hierarchical classification performance. The code for this project is still private and will be open-sourced after its completion.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Academic</title>
+    <link>http://docker.local:1313/tag/demo/</link>
+      <atom:link href="http://docker.local:1313/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jan 2019 23:37:28 +0530</lastBuildDate>
+    <image>
+      <url>http://docker.local:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Demo</title>
+      <link>http://docker.local:1313/tag/demo/</link>
+    </image>
+    
+    <item>
+      <title>Feature Selection using fuzzy combination of fuzzy subsets</title>
+      <link>http://docker.local:1313/project/fuzzy/</link>
+      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
+      <guid>http://docker.local:1313/project/fuzzy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AUV</title>
+      <link>http://docker.local:1313/project/auv/</link>
+      <pubDate>Sat, 05 Jan 2019 23:37:28 +0530</pubDate>
+      <guid>http://docker.local:1313/project/auv/</guid>
+      <description>&lt;p&gt;+++
+title = &amp;ldquo;Auv&amp;rdquo;
+date = 2019-01-05T23:38:20+05:30
+draft = false&lt;/p&gt;
+&lt;h1 id=&#34;tags-can-be-used-for-filtering-projects&#34;&gt;Tags: can be used for filtering projects.&lt;/h1&gt;
+&lt;h1 id=&#34;example-tags--machine-learning-deep-learning&#34;&gt;Example: &lt;code&gt;tags = [&amp;quot;machine-learning&amp;quot;, &amp;quot;deep-learning&amp;quot;]&lt;/code&gt;&lt;/h1&gt;
+&lt;p&gt;tags = []&lt;/p&gt;
+&lt;h1 id=&#34;project-summary-to-display-on-homepage&#34;&gt;Project summary to display on homepage.&lt;/h1&gt;
+&lt;p&gt;summary = &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-page-with-markdown-slides&#34;&gt;Associate this page with Markdown slides.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-slides--example-slides-references&#34;&gt;E.g. &lt;code&gt;slides = &amp;quot;example-slides&amp;quot;&lt;/code&gt; references&lt;/h1&gt;
+&lt;h1 id=&#34;contentslidesexample-slidesmd&#34;&gt;&lt;code&gt;content/slides/example-slides.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-slides--&#34;&gt;Otherwise, set &lt;code&gt;slides = &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;slides = &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
+&lt;p&gt;external_link = &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
+&lt;p&gt;url_pdf = &amp;quot;&amp;quot;
+url_code = &amp;quot;&amp;quot;
+url_dataset = &amp;quot;&amp;quot;
+url_slides = &amp;quot;&amp;quot;
+url_video = &amp;quot;&amp;quot;
+url_poster = &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;custom-links-optional&#34;&gt;Custom links (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;uncomment-line-below-to-enable-for-multiple-links-use-the-form---&#34;&gt;Uncomment line below to enable. For multiple links, use the form &lt;code&gt;[{...}, {...}, {...}]&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;url_custom--icon_pack--fab-icontwitter-namefollow-url--httpstwittercom&#34;&gt;url_custom = [{icon_pack = &amp;ldquo;fab&amp;rdquo;, icon=&amp;ldquo;twitter&amp;rdquo;, name=&amp;ldquo;Follow&amp;rdquo;, url = &amp;ldquo;https://twitter.com&amp;rdquo;}]&lt;/h1&gt;
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+&lt;h1 id=&#34;to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
+&lt;p&gt;[image]&lt;/p&gt;
+&lt;h1 id=&#34;caption-optional&#34;&gt;Caption (optional)&lt;/h1&gt;
+&lt;p&gt;caption = &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;focal-point-optional&#34;&gt;Focal point (optional)&lt;/h1&gt;
+&lt;h1 id=&#34;options-smart-center-topleft-top-topright-left-right-bottomleft-bottom-bottomright&#34;&gt;Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight&lt;/h1&gt;
+&lt;p&gt;focal_point = &amp;quot;&amp;quot;
++++&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

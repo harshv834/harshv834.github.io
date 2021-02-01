@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Academic</title>
-    <link>http://docker.local:1313/tag/demo/</link>
-      <atom:link href="http://docker.local:1313/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/demo/</link>
+      <atom:link href="/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jan 2019 23:37:28 +0530</lastBuildDate>
     <image>
-      <url>http://docker.local:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Demo</title>
-      <link>http://docker.local:1313/tag/demo/</link>
+      <link>/tag/demo/</link>
     </image>
     
     <item>
       <title>Feature Selection using fuzzy combination of fuzzy subsets</title>
-      <link>http://docker.local:1313/project/fuzzy/</link>
+      <link>/project/fuzzy/</link>
       <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/fuzzy/</guid>
+      <guid>/project/fuzzy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AUV</title>
-      <link>http://docker.local:1313/project/auv/</link>
+      <link>/project/auv/</link>
       <pubDate>Sat, 05 Jan 2019 23:37:28 +0530</pubDate>
-      <guid>http://docker.local:1313/project/auv/</guid>
+      <guid>/project/auv/</guid>
       <description>&lt;p&gt;+++
 title = &amp;ldquo;Auv&amp;rdquo;
 date = 2019-01-05T23:38:20+05:30
