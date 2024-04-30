@@ -2,111 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>http://docker.local:1313/</link>
-      <atom:link href="http://docker.local:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/</link>
+      <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://docker.local:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>http://docker.local:1313/</link>
+      <link>//localhost:1313/</link>
     </image>
     
     <item>
       <title>Constrained Stochastic Compositional Gradient Descent</title>
-      <link>http://docker.local:1313/project/cscgd/</link>
+      <link>//localhost:1313/project/cscgd/</link>
       <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/cscgd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal Batch size per iteration</title>
-      <link>http://docker.local:1313/project/batch_size_proj/</link>
-      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/batch_size_proj/</guid>
-      <description></description>
+      <guid>//localhost:1313/project/cscgd/</guid>
+      <description>&lt;p&gt;This work studies constrained stochastic optimization problems where the objective and constraint functions are convex and expressed as compositions of stochastic functions. The problem arises in the context of fair classification, fair regression, and the design of queuing systems. Of particular interest is the large-scale setting where an oracle provides the stochastic gradients of the constituent functions, and the goal is to solve the problem with a minimal number of calls to the oracle. The problem arises in fair classification/regression and in the design of queuing systems. Owing to the compositional form, the stochastic gradients provided by the oracle do not yield unbiased estimates of the objective or constraint gradients. Instead, we construct approximate gradients by tracking the inner function evaluations, resulting in a quasi-gradient saddle point algorithm. We prove that the proposed algorithm is guaranteed to find the optimal and feasible solution almost surely. We further establish that the proposed algorithm requires O(ϵ^(-4)) data samples in order to obtain an ϵ-approximate optimal point while also ensuring zero constraint violation. The result matches the sample complexity of the stochastic compositional gradient descent method for unconstrained problems and improves upon the best-known sample complexity results for the constrained settings. The efficacy of the proposed algorithm is tested on both fair classification and fair regression problems. The numerical results show that the proposed algorithm outperforms the state-of-the-art algorithms in terms of the convergence rate.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Robust Training for Neural Networks</title>
-      <link>http://docker.local:1313/project/cs777/</link>
+      <link>//localhost:1313/project/cs777/</link>
       <pubDate>Sat, 05 Jan 2019 23:37:28 +0530</pubDate>
-      <guid>http://docker.local:1313/project/cs777/</guid>
+      <guid>//localhost:1313/project/cs777/</guid>
       <description>&lt;p&gt;Designed a novel alternating-optimization based training algorithm for a single hidden layer NN with ReLU activation by breaking the training procedure into 3 stages -sparse recovery for choosing the sign of weights and separate regression procedures for the positive and negative weights. Proved the rates of convergence for this algorithm under mild assumptions on the weights &amp;amp; input.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Adversarial attacks on qSGD and EF-signSGD with gossip communication</title>
-      <link>http://docker.local:1313/project/optml/</link>
-      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/optml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Junior Machine Learning Engineer at Visium SA.</title>
-      <link>http://docker.local:1313/project/visium/</link>
-      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/visium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Stochastic Hamiltonian Descent</title>
-      <link>http://docker.local:1313/project/ee609/</link>
+      <link>//localhost:1313/project/ee609/</link>
       <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/ee609/</guid>
+      <guid>//localhost:1313/project/ee609/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MyFoodRepo</title>
-      <link>http://docker.local:1313/project/mfr/</link>
+      <link>//localhost:1313/project/mfr/</link>
       <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/mfr/</guid>
+      <guid>//localhost:1313/project/mfr/</guid>
       <description>&lt;p&gt;The MyFoodRepo project aims to produce accurate nutritional value estimates from images of food items. My work involved training the baseline Tortilla image classifier on a private dataset of food images, handling class imbalance in the data, setting up a coco-ui like segmentation interface on MTurk, and a webcrawler for obtaining further training data. Proposed methods to handle hierarchical classification performance. The code for this project is still private and will be open-sourced after its completion.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Direction of Arrival and Source Position Estimation</title>
-      <link>http://docker.local:1313/project/ssp/</link>
-      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/ssp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outlier Detection Using Loggarma Models</title>
-      <link>http://docker.local:1313/project/mth517/</link>
-      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/mth517/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recommend a Reviewer</title>
-      <link>http://docker.local:1313/project/cs771/</link>
-      <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/cs771/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Feature Selection using fuzzy combination of fuzzy subsets</title>
-      <link>http://docker.local:1313/project/fuzzy/</link>
+      <link>//localhost:1313/project/fuzzy/</link>
       <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/fuzzy/</guid>
+      <guid>//localhost:1313/project/fuzzy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AUV</title>
-      <link>http://docker.local:1313/project/auv/</link>
+      <link>//localhost:1313/project/auv/</link>
       <pubDate>Sat, 05 Jan 2019 23:37:28 +0530</pubDate>
-      <guid>http://docker.local:1313/project/auv/</guid>
+      <guid>//localhost:1313/project/auv/</guid>
       <description>&lt;p&gt;+++
 title = &amp;ldquo;Auv&amp;rdquo;
 date = 2019-01-05T23:38:20+05:30
@@ -149,9 +102,9 @@ url_poster = &amp;quot;&amp;quot;&lt;/p&gt;
     
     <item>
       <title>Example Talk</title>
-      <link>http://docker.local:1313/talk/example-talk/</link>
+      <link>//localhost:1313/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://docker.local:1313/talk/example-talk/</guid>
+      <guid>//localhost:1313/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -168,18 +121,42 @@ url_poster = &amp;quot;&amp;quot;&lt;/p&gt;
     </item>
     
     <item>
-      <title>Stochastic Compositional Gradient Descent under Compositional Constraints</title>
-      <link>http://docker.local:1313/publication/cscgd_paper/</link>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://docker.local:1313/publication/cscgd_paper/</guid>
+      <title>An Improved Federated Clustering Algorithm with Model-based Clustering</title>
+      <link>//localhost:1313/publication/fed_clustering_paper/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/fed_clustering_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic compositional gradient descent under compositional constraints</title>
+      <link>//localhost:1313/publication/cscgd_paper/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/cscgd_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Async-HFL: Efficient and Robust Asynchronous Federated Learning in Hierarchical IoT Networks</title>
+      <link>//localhost:1313/publication/iotdi_paper/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/iotdi_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tackling benign nonconvexity with smoothing and stochastic gradients</title>
+      <link>//localhost:1313/publication/benign_nonconvex/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/benign_nonconvex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>http://docker.local:1313/post/getting-started/</link>
+      <link>//localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://docker.local:1313/post/getting-started/</guid>
+      <guid>//localhost:1313/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -271,9 +248,9 @@ url_poster = &amp;quot;&amp;quot;&lt;/p&gt;
     
     <item>
       <title>Slides</title>
-      <link>http://docker.local:1313/slides/example/</link>
+      <link>//localhost:1313/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://docker.local:1313/slides/example/</guid>
+      <guid>//localhost:1313/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -320,15 +297,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -399,10 +376,34 @@ Three
     </item>
     
     <item>
+      <title>Recommend a Reviewer</title>
+      <link>//localhost:1313/project/cs771/</link>
+      <pubDate>Sat, 05 Jan 2019 23:38:12 +0530</pubDate>
+      <guid>//localhost:1313/project/cs771/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direction of Arrival and Source Position Estimation</title>
+      <link>//localhost:1313/project/ssp/</link>
+      <pubDate>Sat, 05 Jan 2019 23:38:04 +0530</pubDate>
+      <guid>//localhost:1313/project/ssp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outlier Detection Using Loggarma Models</title>
+      <link>//localhost:1313/project/mth517/</link>
+      <pubDate>Sat, 05 Jan 2019 23:37:56 +0530</pubDate>
+      <guid>//localhost:1313/project/mth517/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimal Feature Selection using Fuzzy Combination of Feature Subset for Transcriptome Data</title>
-      <link>http://docker.local:1313/publication/fuzzy_mrmr/</link>
+      <link>//localhost:1313/publication/fuzzy_mrmr/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://docker.local:1313/publication/fuzzy_mrmr/</guid>
+      <guid>//localhost:1313/publication/fuzzy_mrmr/</guid>
       <description></description>
     </item>
     

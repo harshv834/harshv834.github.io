@@ -2,29 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Academic</title>
-    <link>http://docker.local:1313/publication/</link>
-      <atom:link href="http://docker.local:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/publication/</link>
+      <atom:link href="//localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://docker.local:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>http://docker.local:1313/publication/</link>
+      <link>//localhost:1313/publication/</link>
     </image>
     
     <item>
-      <title>Stochastic Compositional Gradient Descent under Compositional Constraints</title>
-      <link>http://docker.local:1313/publication/cscgd_paper/</link>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://docker.local:1313/publication/cscgd_paper/</guid>
+      <title>An Improved Federated Clustering Algorithm with Model-based Clustering</title>
+      <link>//localhost:1313/publication/fed_clustering_paper/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/fed_clustering_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic compositional gradient descent under compositional constraints</title>
+      <link>//localhost:1313/publication/cscgd_paper/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/cscgd_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Async-HFL: Efficient and Robust Asynchronous Federated Learning in Hierarchical IoT Networks</title>
+      <link>//localhost:1313/publication/iotdi_paper/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/iotdi_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tackling benign nonconvexity with smoothing and stochastic gradients</title>
+      <link>//localhost:1313/publication/benign_nonconvex/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/benign_nonconvex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Feature Selection using Fuzzy Combination of Feature Subset for Transcriptome Data</title>
-      <link>http://docker.local:1313/publication/fuzzy_mrmr/</link>
+      <link>//localhost:1313/publication/fuzzy_mrmr/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://docker.local:1313/publication/fuzzy_mrmr/</guid>
+      <guid>//localhost:1313/publication/fuzzy_mrmr/</guid>
       <description></description>
     </item>
     

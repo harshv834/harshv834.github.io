@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internship | Academic</title>
-    <link>http://docker.local:1313/tag/internship/</link>
-      <atom:link href="http://docker.local:1313/tag/internship/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/internship/</link>
+      <atom:link href="//localhost:1313/tag/internship/index.xml" rel="self" type="application/rss+xml" />
     <description>Internship</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jan 2019 23:29:29 +0530</lastBuildDate>
     <image>
-      <url>http://docker.local:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Internship</title>
-      <link>http://docker.local:1313/tag/internship/</link>
+      <link>//localhost:1313/tag/internship/</link>
     </image>
     
     <item>
       <title>MyFoodRepo</title>
-      <link>http://docker.local:1313/project/mfr/</link>
+      <link>//localhost:1313/project/mfr/</link>
       <pubDate>Sat, 05 Jan 2019 23:29:29 +0530</pubDate>
-      <guid>http://docker.local:1313/project/mfr/</guid>
+      <guid>//localhost:1313/project/mfr/</guid>
       <description>&lt;p&gt;The MyFoodRepo project aims to produce accurate nutritional value estimates from images of food items. My work involved training the baseline Tortilla image classifier on a private dataset of food images, handling class imbalance in the data, setting up a coco-ui like segmentation interface on MTurk, and a webcrawler for obtaining further training data. Proposed methods to handle hierarchical classification performance. The code for this project is still private and will be open-sourced after its completion.&lt;/p&gt;
 </description>
     </item>
